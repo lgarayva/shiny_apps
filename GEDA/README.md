@@ -1,4 +1,4 @@
-#Dashboard interactivo GEDA, parte del examen parcial de Minería y Análisis de Datos
+# Dashboard interactivo GEDA, parte del examen parcial de Minería y Análisis de Datos
 
 ## Tablero interactivo:
 
